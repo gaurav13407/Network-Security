@@ -1,0 +1,16 @@
+python-dotenv
+pymongo
+ipykernel
+numpy
+pandas
+matplotlib
+seaborn
+bs4
+flask
+scikit-learn
+memory_profiler
+streamlit
+xgboost
+catboost
+dill
+#-e .
