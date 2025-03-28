@@ -14,5 +14,6 @@ xgboost
 catboost
 dill
 certifi
-pymongo[srv]==3.6
+pymongo[srv]
+pyaml
 ##-e .
